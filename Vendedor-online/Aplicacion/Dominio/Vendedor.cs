@@ -10,7 +10,7 @@ public class Vendedor
     public string domicilio;
     public string nomUsuario;
     public string contraseña;
-    public List<Publicacion>Publicaciones;
+    public List<Publicacion> Publicaciones;
     public Vendedor (string nombre, string apellido, string email, int CUIT, string domicilio, string nomUsuario, string contraseña)
     {
         this.nombre = nombre;
@@ -20,7 +20,7 @@ public class Vendedor
         this.domicilio = domicilio;
         this.nomUsuario = nomUsuario;
         this.contraseña = contraseña;
-        this.Publicaciones = new.List<Publicacion>();
+        this.Publicaciones = new List<Publicacion>();
     }
     public void CambiarContraseña(string nuevaContraseña) => this.contraseña = nuevaContraseña;
 }

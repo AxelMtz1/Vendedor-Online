@@ -1,0 +1,12 @@
+{
+    "Logging": {
+      "LogLevel": {
+        "Default": "Information",
+        "Microsoft.AspNetCore": "Warning"
+      }
+    },
+    "AllowedHosts": "*",
+    "ConnectionStrings": {
+      "aplicacion_db" : "Server=localhost;Database=proyectodb;User=root;Password=pass123"
+    }
+  }

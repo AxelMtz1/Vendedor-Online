@@ -1,0 +1,6 @@
+/home/et12alumno/Escritorio/Vendedor online/Vendedor-Online/Vendedor-online/Api/obj/Debug/net7.0/Api.csproj.AssemblyReference.cache
+/home/et12alumno/Escritorio/Vendedor online/Vendedor-Online/Vendedor-online/Api/obj/Debug/net7.0/Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Vendedor online/Vendedor-Online/Vendedor-online/Api/obj/Debug/net7.0/Api.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Vendedor online/Vendedor-Online/Vendedor-online/Api/obj/Debug/net7.0/Api.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Vendedor online/Vendedor-Online/Vendedor-online/Api/obj/Debug/net7.0/Api.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Vendedor online/Vendedor-Online/Vendedor-online/Api/obj/Debug/net7.0/Api.MvcApplicationPartsAssemblyInfo.cache
